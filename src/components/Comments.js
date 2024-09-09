@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 
 const mockComments = [
-  { id: 1, text: 'To the moon!', responses: [] },
-  { id: 2, text: `That's far`, responses: [] },
+  { id: 1, text: 'To the moon!', responses: [] }
 ];
 
 const Comments = () => {
