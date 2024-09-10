@@ -16,5 +16,4 @@ Code Refactoring: I would have spent a few more hours, even days on refactoring 
 Testing: I would have done more unit testing.<br>
 Documentation: I would have improved the documentation for this project.<br>
 
-**Demo Video**
-[Video](https://youtu.be/O1ZJzfmyVUI)
+**[Demo Video](https://youtu.be/O1ZJzfmyVUI)**
