@@ -1,9 +1,9 @@
-import { ThemeProvider, useTheme } from './ThemeContext'; // Adjust the path if needed
+import { ThemeProvider, useTheme } from './ThemeContext'; 
 import './index.css';
-import ThemeToggle from './components/ThemeToggle'; // Adjust the path if needed
-import Metrics from './components/Metrics'; // Adjust the path if needed
-import Chart from './components/Chart'; // Adjust the path if needed
-import Comments from './components/Comments'; // Adjust the path if needed
+import ThemeToggle from './components/ThemeToggle'; 
+import Metrics from './components/Metrics'; 
+import Chart from './components/Chart'; 
+import Comments from './components/Comments'; 
 
 const AppContent = () => {
   const { theme } = useTheme(); // Extract the current theme from the context
