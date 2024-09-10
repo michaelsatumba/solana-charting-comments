@@ -1,4 +1,3 @@
-// src/api.js
 export const fetchSolanaData = async () => {
   const response = await fetch('https://api.coingecko.com/api/v3/coins/solana');
   const data = await response.json();
