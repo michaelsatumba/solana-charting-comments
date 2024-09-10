@@ -4,6 +4,10 @@ To run click ---> [Project Link](https://solana-charting-comments-lmvjbdf2l-mich
 <br>
 I explored various websites for inspiration and developed my own design by incorporating elements from popular platforms.
 
+**Assumptions**
+<br>
+I was allowed to use React and TailwindCSS
+
 **Additional Features and Improvements**
 <br>
 Feature 1: I would have add more time ranges in the graph.<br>
