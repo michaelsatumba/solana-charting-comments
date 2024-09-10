@@ -1,4 +1,4 @@
-To run click ---> [Project Link](https://solana-charting-comments-lmvjbdf2l-michaelsatumbas-projects.vercel.app/) 
+To run click ---> [Project Link](https://solana-charting-comments.vercel.app/) 
 
 **Design Decisions**
 <br>
